@@ -1,0 +1,59 @@
+/*Etiket’e CSS tanımlaması: body{ font-size:10px; }
+
+Class’a CSS tanımlaması: .branding{ width: 100%; }
+
+ID’ye CSS tanımlaması: #branding{ width: 100%; }*/
+
+
+
+
+
+body{
+	background-color: #404040;
+}
+h1{font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: xx-large;
+	color: #DD0000;
+	text-transform: uppercase;
+}
+h2{
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans;
+	text-align: center;
+	font-size: x-large;
+	color: #c0c0c0;
+	text-transform: lowercase;
+
+}
+h3{
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans;
+	text-align: left;
+	font-size: medium;
+	color: #c0c0c0;
+	text-transform: lowercase;
+}
+h4{
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans;
+	text-align: right;
+	font-size: xx-large;
+	color: #c0c0c0;
+	text-transform: uppercase;
+}
+h5{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	font-size: xx-large;
+	font-style: italic;
+	color: #FFD700;
+	text-transform: uppercase;
+
+}
+.ortalaresim{
+	width:500px;
+  height: 250px;
+  display: table;
+  position: relative;
+  overflow: hidden;
+  text-align:center;
+  margin:0 auto;
+}
